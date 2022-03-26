@@ -1,8 +1,5 @@
 # Project7-Travelix
 
-# Travelix
-
-
 ## Project brief
 
 Travelix concierge company specializes in securing access for its members to private member’s clubs, the finest restaurants, and select VIP events. They also have expertise in everything from bespoke luxury travel to art and even business connections, it is focuses on Jordan where its influence is at its peak. Still, their unrivaled insider knowledge and exclusive, international connections allow them to cater to members worldwide.
